@@ -1,0 +1,10 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/sch/code/proj1-philphix/src
+CMake Error at CMakeLists.txt:14 (add_executable):
+  add_executable cannot create target "src" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "/Users/sch/code/proj1-philphix/src".  See documentation
+  for policy CMP0002 for more details.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/sch/code/proj1-philphix/src/cmake-build-debug/CMakeFiles/CMakeOutput.log".

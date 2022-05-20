@@ -1,0 +1,13 @@
+OSTYPE='darwin19'
+SH_VERSION='GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin19)
+Copyright (C) 2007 Free Software Foundation, Inc.'
+GIT_VERSION='git version 2.33.0'
+PYTHON_VERSION='Python 3.7.8'
+GCC_VERSION='Configured with: --prefix=/Library/Developer/CommandLineTools/usr --with-gxx-include-dir=/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/c++/4.2.1
+Apple clang version 12.0.0 (clang-1200.0.32.29)
+Target: x86_64-apple-darwin19.6.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin'
+JAVA_VERSION='java version "14.0.2" 2020-07-14
+Java(TM) SE Runtime Environment (build 14.0.2+12-46)
+Java HotSpot(TM) 64-Bit Server VM (build 14.0.2+12-46, mixed mode, sharing)'
